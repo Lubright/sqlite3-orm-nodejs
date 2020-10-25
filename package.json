@@ -1,6 +1,6 @@
 {
   "name": "@advantest/sqlite3-orm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The convenient way to manipulate sqlite3 module",
   "main": "index.js",
   "directories": {
