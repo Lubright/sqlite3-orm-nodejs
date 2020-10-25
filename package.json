@@ -1,0 +1,27 @@
+{
+  "name": "@adv/sqlite3-orm",
+  "version": "1.0.0",
+  "description": "The convenient way to manipulate sqlite3 module",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "",
+  "author": {
+    "name": "BenTseng",
+    "email": "ben.tseng@advantest.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "license": "ISC",
+  "dependencies": {
+    "sqlite3": "^5.0.0"
+  },
+  "keywords": ["sqlite", "sqlite3", "sqlite-orm", "sqlite3-orm"]
+}
