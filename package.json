@@ -1,5 +1,5 @@
 {
-  "name": "@adv/sqlite3-orm",
+  "name": "@advantest/sqlite3-orm",
   "version": "1.0.0",
   "description": "The convenient way to manipulate sqlite3 module",
   "main": "index.js",
