@@ -10,14 +10,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "homepage": "",
+  "homepage": "https://github.com/Lubright/sqlite3-orm-nodejs.git",
   "author": {
     "name": "BenTseng",
     "email": "ben.tseng@advantest.com"
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/Lubright/sqlite3-orm-nodejs.git"
   },
   "license": "ISC",
   "dependencies": {
